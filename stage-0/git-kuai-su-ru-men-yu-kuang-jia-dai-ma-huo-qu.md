@@ -29,6 +29,8 @@ git config --global user.email "zhangsan@foo.com"    # your email
 
 这里需要输入gitlab用户名密码
 
+(以下窗口是pycharm新建项目的窗口，你可以通过 文件>>关闭项目 来打开该窗口)
+
 ![](<../.gitbook/assets/image (12).png>)
 
 点击运行按钮，测试环境是否配置成功
