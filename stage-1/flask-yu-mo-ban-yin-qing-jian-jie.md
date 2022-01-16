@@ -41,6 +41,8 @@ if __name__ == '__main__':
 
 其中，你需要着重了解“路由”和“渲染模板”部分。
 
+同时，你可能需要自学http请求、json等相关知识
+
 快速入门中的关于Jinja2模板引擎的介绍较少，跟多介绍可以参考Jinja2手册
 
 {% embed url="https://docs.pythontab.com/jinja/jinja2/templates.html" %}

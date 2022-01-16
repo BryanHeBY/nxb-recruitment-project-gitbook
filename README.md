@@ -9,6 +9,7 @@ description: 欢迎各位新人参加南小宝技术方向第二轮面试。在�
 
 请每天至少关注一次首页该处内容，这里会有重要的通知以及手册变动提醒！
 
+* 2022.1.16 23:57 STAGE 2 手册已完成
 * 2022.1.16 13:26 STAGE 1 手册已完成
 * 2020.1.15 23:29 STAGE 0 中框架代码获取添加flask服务器配置选项的介绍，[点击这里](https://1319212443.gitbook.io/nan-xiao-bao-zhao-xin-ji-shu-fang-xiang-mian-shi-project/stage-0/git-kuai-su-ru-men-yu-kuang-jia-dai-ma-huo-qu#config\_flask\_server)查看更新
 * 2022.1.15 22:22 STAGE 0 手册已完成，各小组可开始进行项目实现，请务必在完成该阶段后点击链接开始计时

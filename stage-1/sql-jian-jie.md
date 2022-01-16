@@ -45,8 +45,12 @@ result被传递给render\_template后可以在模板中以类似列表的方式�
 
 ### 数据库的创建
 
-你可以调用`SQLAlchemy.create_all()`方法，结合你的数据结构设计来创建新的数据表。这里有一个优秀的Flask-SQLAlchemy指南可供参考：[Flask SQLAlchemy 中文文档 | Flask 扩展文档汇总 (gitbooks.io)](https://wizardforcel.gitbooks.io/flask-extension-docs/content/flask-sqlalchemy.html)
+你可以调用`SQLAlchemy.create_all()`方法，结合你的数据结构设计来创建新的数据表。这里有一个优秀的Flask-SQLAlchemy指南可供参考：
+
+1. [Flask SQLAlchemy 中文文档 | Flask 扩展文档汇总 (gitbooks.io)](https://wizardforcel.gitbooks.io/flask-extension-docs/content/flask-sqlalchemy.html)
+2. [Flask入门教程：数据库](https://read.helloflask.com/c5-database)
 
 关于Flask-SQLAlchemy的增删查改，可参考如下页面
 
 {% embed url="http://www.pythondoc.com/flask-sqlalchemy/queries.html" %}
+
