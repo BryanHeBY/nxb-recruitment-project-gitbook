@@ -36,5 +36,5 @@
 
 ## 要求
 
-请根据自己组内的项目要求，建立数据表（可以调用[`SQLAlchemy.create_all()`](https://wizardforcel.gitbooks.io/flask-extension-docs/content/api.html#flask.ext.sqlalchemy.SQLAlchemy.create\_all)方法，也可直接连接数据库使用sql create table语句），并封装相关函数
+请根据自己组内的项目要求，建立数据表（可以调用[`SQLAlchemy.create_all()`](https://wizardforcel.gitbooks.io/flask-extension-docs/content/api.html#flask.ext.sqlalchemy.SQLAlchemy.create\_all)方法，也可直接连接数据库使用sql create table语句），之后可以试着插入一些记录，在学习模板引擎后将结果显示出来
 

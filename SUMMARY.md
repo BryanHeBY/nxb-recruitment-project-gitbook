@@ -31,7 +31,7 @@
 
 ## Stage 2
 
-* [后端数据库接口的实现与测试](stage-2/hou-duan-shu-ju-ku-jie-kou-de-shi-xian-yu-ce-shi.md)
+* [后端数据库接口实现与测试](stage-2/hou-duan-shu-ju-ku-jie-kou-shi-xian-yu-ce-shi.md)
 * [Ajax与jQuery简介](stage-2/ajax-yu-jquery-jian-jie.md)
 
 ## STAGE 3
